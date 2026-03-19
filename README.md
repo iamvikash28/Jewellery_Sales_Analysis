@@ -93,11 +93,12 @@ jewellery-sales-analysis/
 ## ⚙️ How to Run
 
 1. Install Python dependency:
-
+   ---
    pip install openpyxl
    ```
-3. Run the data generation script:
 
+3. Run the data generation script:
+   ---
    python jewellery_sales.py
    ```
 4. Open "Jewellery_Sales_Analysis.xlsx" in Excel
