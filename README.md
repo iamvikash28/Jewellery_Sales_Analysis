@@ -6,6 +6,11 @@ for the financial year 2024.
 
 ---
 
+## 📸 Preview
+[jewellery_dashboard.pdf](https://github.com/user-attachments/files/26815274/jewellery_dashboard.pdf)
+
+---
+
 ## 📊 Project Overview
 
 | Detail | Info |
@@ -110,6 +115,6 @@ jewellery-sales-analysis/
 ## 👤 Author
 
 **Vikash Verma**
-Aspiring Data Analyst | Excel · SQL · Power BI · Python
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
 ---
