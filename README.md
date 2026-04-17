@@ -7,7 +7,10 @@ for the financial year 2024.
 ---
 
 ## 📸 Preview
-[jewellery_dashboard.pdf](https://github.com/user-attachments/files/26815274/jewellery_dashboard.pdf)
+
+<img width="1523" height="879" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/a24869ac-4904-4407-be80-1333ca3a347d" />
+<img width="1525" height="883" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/b597e96b-bf5d-4bf4-87bf-2decb12f486f" />
+<img width="1526" height="883" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/1a9e63fc-93fc-4c09-84ab-15512aaa40e1" />
 
 ---
 
