@@ -79,7 +79,7 @@ jewellery-sales-analysis/
    revenue despite fewer orders
 3. **Diamond AOV is 4x higher** than Silver avg order value
 4. **UPI is the most popular** payment method
-5. **Mumbai & Delhi** are the top revenue-generating cities
+5. **Chennai & Bangalore** are the top revenue-generating cities
 6. **Jun–Jul is the off-season** — lowest sales months
 
 ---
