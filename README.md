@@ -117,7 +117,9 @@ jewellery-sales-analysis/
 
 ## 👤 Author
 
-**Vikash Verma**
-Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
+**Vikash Verma** — aspiring Data / Business Analyst
+- GitHub: [github.com/iamvikash28](https://github.com/iamvikash28)
+- LinkedIn: [linkedin.com/in/iamvikash28](https://linkedin.com/in/iamvikash28)
+- Email: vikashverma566@gmail.com
 
 ---
